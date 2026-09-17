@@ -1,7 +1,8 @@
-# Cupsy_App_UI/UX_Design
+# 🍔 Cupsy App UI/UX Design
+
 Welcome to the **Cupsy** mobile application UI/UX design project! This is an **end-to-end, ready-to-use design built completely from scratch** (not a copy-paste concept). Every single element in this design is thoughtfully crafted and enhanced with interactive prototypes to give users a real application feel.
 
---- 
+---
 
 ## Key Highlights & Features
 * **Built From Scratch:** Completely original UI/UX design conceptualized and designed entirely by me.
@@ -11,22 +12,25 @@ Welcome to the **Cupsy** mobile application UI/UX design project! This is an **e
 
 ---
 
-## 🛠️ How to View the Prototype Properly
+## How to View the Prototype Properly
 If the screen does not fit correctly or if you are viewing it on a mobile/tablet browser, follow these quick steps to get the best experience:
 1. Tap on the **three dots** menu in your browser.
 2. Enable **"Desktop site"** mode.
 3. Look at the bottom-right corner and hover/tap to find the **Restart** option.
-4. Click on **Restart**, and you will be able to see the interactive design smoothly!
+4. Click on **Restart**, and you will be able to see the interactive design smoothly from the very beginning!
+
 
 ---
 
-## 📱 Live Prototype Link
-You can test and interact with the live Figma prototype here:
-👉 **[View Cupsy App Prototype on Figma](https://www.figma.com/proto/tDCSBwfxYfBAjBJpOBH1GJ/Cupsy_App_Design?page-id=0%3A1&node-id=1-16&p=f&viewport=-145%2C146%2C0.09&t=TRXvioVH4NGggBcW-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2)**
+
+## Live Prototype Link
+You can test and interact with the live Figma prototype (starting with the full animation flow) here:
+👉 **[View Cupsy App Prototype on Figma](https://www.figma.com/proto/tDCSBwfxYfBAjBJpOBH1GJ/Cupsy_App_Design?page-id=0%3A1&node-id=5-4&p=f&viewport=-145%2C146%2C0.09&t=gNkrh0L1EdXgm1NY-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=372%3A65&show-proto-sidebar=1)**
+
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 * **Figma:** For UI design, wireframing, component structuring, and interactive prototyping.
 * **Figma Prototype Settings:** Configured with device frames for realistic presentation.
 
